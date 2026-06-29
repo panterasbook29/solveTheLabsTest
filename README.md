@@ -2,6 +2,8 @@
 
 Hey Vincent! Here there will be 2 labs and 1 CTF you will need to fix and/or go through and solve!
 
+Make your own fork of this repository and edit the files there.
+
 ---
 
 1st Lab is an **sqlmap** lab that has some missing images, and 1 or more commands that aren't working as they should, your job is to add those images so they fit the lab theme and the other images and to fix that/those broken commands so that the output is the same as in the images describing them.
